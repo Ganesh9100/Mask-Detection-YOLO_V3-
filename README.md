@@ -38,14 +38,14 @@ You have to create 3 different file's
   Clone the github page : 
   https://github.com/AlexeyAB/darknet
   
-  Modify the Make File 
+  Modify the Make File and Compile it 
   
   
-  Make sure that you have the Dataset under Darknet or Darknet/data
+  Make sure that you have copy of the Dataset under Darknet or Darknet/data
   
   Download the Pre-trained weights based on the Algorithm you use , for yolov3 - https://pjreddie.com/media/files/darknet53.conv.74
   
-  Modify the cfg file with respective the Algorithm and the dataset 
+  Modify the cfg file with respective the Algorithm and the dataset and Compile it befor Training 
   
   Train the Model using : Example 
   
