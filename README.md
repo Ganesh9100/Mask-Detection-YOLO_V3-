@@ -68,7 +68,9 @@ Example of custom object detection: darknet.exe detector test data/obj.data yolo
 
 
 
-My Model Summary :
+ My Model Summary :
+ 
+ 
 
 <b> Mask_Not_Detected</b>
 <p align="left">
