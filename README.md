@@ -1,7 +1,7 @@
 
 Training with yolov3
 
- Create the DataSet of near atleast 300 per class 
+ Create the Dataset with different class of image's.
 
 
 For Creating Bounding Box and Annotation file  you can use below tools 
