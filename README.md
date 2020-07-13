@@ -51,7 +51,7 @@ You have to create 3 different file's
   
       ( Windows ) darknet.exe detector train data/obj.data yolov4-tiny-obj.cfg yolov4-tiny.conv.29 
                
-      ( Linux )   !./darknet.exe detector train data/obj.data yolov4-tiny-obj.cfg yolov4-tiny.conv.29
+      ( Linux )   !./darknet detector train data/obj.data yolov4-tiny-obj.cfg yolov4-tiny.conv.29
   
   Stop the Training,
   
