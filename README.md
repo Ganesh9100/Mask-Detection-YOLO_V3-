@@ -10,8 +10,10 @@ Upload the below files to darknet/data directory : For training
  
  After training use the best weight file for detection .
  
+ Further Resource : https://github.com/AlexeyAB/darknet
+ 
 
-My Model Summary :
+Model Ouput :
  
  
 
