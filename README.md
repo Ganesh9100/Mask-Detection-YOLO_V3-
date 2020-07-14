@@ -1,6 +1,6 @@
-I have trained the model with 2 class of images , Mask and No_Mask ,Where I ran my model in Google Colab till 1300 iteration which gives me the Highest Accuracy .
+I have trained the model with 2 class of images [ Mask_detected and No_Mask detected] ,Where I ran my model in Google Colab till 1300 iteration which gives me the Highest Accuracy when training with 1100 images .  
 
-Upload the below files to darknet/data directory :
+Upload the below files to darknet/data directory : For training 
 
    train.txt
    obj.names
@@ -8,7 +8,8 @@ Upload the below files to darknet/data directory :
    dataset 
    test.txt ( optional )
  
-  
+ After training use the best weight file for detection .
+ 
 
 My Model Summary :
  
