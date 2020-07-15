@@ -37,7 +37,7 @@ Model Ouput :
   
 </p>
 
-![Alt Text](https://github.com/Ganesh9100/Mask-Detection-YOLO_V3-/blob/master/test.mp4)
+![Watch the video](https://github.com/Ganesh9100/Mask-Detection-YOLO_V3-/blob/master/test.mp4)
 
 <p>
  <b>class_id = 0, name = Mask_Detected , ap = 98.04% (TP = 681, FP = 29)</b>
