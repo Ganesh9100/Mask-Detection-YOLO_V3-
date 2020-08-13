@@ -53,7 +53,7 @@ IoU threshold = 50 %, used Area-Under-Curve for each unique Recall
 Total Detection Time: 33 Seconds
 
 </p>
-
+If you have doubts please inbox me at ganeshraj1999@outlook.com
 
 
 
