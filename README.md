@@ -46,9 +46,9 @@ Model Ouput :
  
  <b>class_id = 1, name = Mask_Not_Detected (TP = 385, FP = 18)</b>
 
-for conf_thresh = 0.25, precision = 0.96, recall = 0.96, <b>F1-score = 0.96</b>
+ precision = 0.96, recall = 0.96, <b>F1-score = 0.96</b>
 
-for conf_thresh = 0.25, TP = 1066, FP = 47, FN = 40, <b>average IoU = 71.77 %</b>
+ TP = 1066, FP = 47, FN = 40, <b>average IoU = 71.77 %</b>
 
 <b>mean average precision (mAP@0.50) = 0.973706, or 97.37 %</b>
 Total Detection Time: 33 Seconds
