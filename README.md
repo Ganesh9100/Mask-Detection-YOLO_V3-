@@ -40,6 +40,8 @@ Model Ouput :
 [![Watch the video](https://github.com/Ganesh9100/Mask-Detection-YOLO_V3-/blob/master/Screenshot%20from%202020-07-15%2019-46-13.png)](https://youtu.be/NcPq3xSN9vM)
 
 <p>
+   <img src="https://github.com/Ganesh9100/Mask-Detection-YOLO_V3-/blob/master/f1.jpeg" width="250" title="hover text">
+   
  <b>class_id = 0, name = Mask_Detected (TP = 681, FP = 29)</b>
  
  <b>class_id = 1, name = Mask_Not_Detected (TP = 385, FP = 18)</b>
