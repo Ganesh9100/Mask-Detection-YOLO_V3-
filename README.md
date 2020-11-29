@@ -54,7 +54,9 @@ Model Ouput :
 Total Detection Time: 33 Seconds
 
 </p>
-If you have doubts please inbox me at ganeshraj1999@outlook.com
+If you have doubts please inbox me at ganeshraj1999@outlook.com<BR>
+Hey, want to implement ?...Here is my blog, https://www.codementor.io/@edugan28/face-mask-detection-using-yolo-v3-18tpxfjrso</p>
+
 
 
 
