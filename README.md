@@ -30,7 +30,7 @@ Model Ouput :
   
 </p>
 
-<b><s> Model_Summary</s></b>
+<b>Model_Summary</b>
 <p align="left">
   
   <img src="https://github.com/Ganesh9100/Mask-Detection-YOLO_V3-/blob/master/summary.jpeg" width="450" title="hover text">
